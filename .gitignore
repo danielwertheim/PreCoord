@@ -1,0 +1,33 @@
+#v0.7
+# Dev stuff
+[Aa]pp_[Dd]ata/
+[Bb]uilds/
+[Oo]bj/
+[Bb]in/
+[D]ebug/
+[Tt]est[Rr]esult/
+[Tt]emp/
+[Pp]ackages/
+*.cache
+*~
+*.swp
+*.sdf
+*.orig
+
+#resharper#
+_ReSharper.*
+*.resharper*
+*.[Rr]e[Ss]harper.user
+
+#vs#
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.Publish.xml
+
+#webstorm#
+.idea/
+
+#windows stuff
+Thumbs.db
